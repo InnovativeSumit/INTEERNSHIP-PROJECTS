@@ -40,9 +40,13 @@ Two interactive web applications built with **HTML, CSS, and JavaScript** as par
   <img src="https://github.com/user-attachments/assets/c739b560-4760-4096-aa81-613ff659b213" width="45%" alt="Stopwatch">
 </div>
 
-## 📜 License
-MIT License - Feel free to use and modify these projects
-
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
 
 <div align="center">
